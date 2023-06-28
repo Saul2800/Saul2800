@@ -6,8 +6,11 @@
     </div>
     
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sa%C3%BAl-arenas-53a873141/)
+- ⚡ C++, Java, SQL , HTML, PHP
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on projects
 
-Hello.
+
 
 
 <!--
@@ -17,8 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...![Saul](https://github.com/Saul2800/Saul2800/assets/66098893/db341484-0942-4c3d-92ea-4f3bd342c5a0)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
