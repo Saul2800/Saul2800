@@ -7,11 +7,9 @@
     
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sa%C3%BAl-arenas-53a873141/)
 - ⚡ C++, Java, SQL , HTML, PHP
-- 🌱 I’m currently learning Python
+- 🌱 Learning Python
 - 👯 I’m looking to collaborate on projects
-
-
-
+- 📫 Currently collaborating in <div href=https://latasf.org/>LATASF</div>
 
 <!--
 **Saul2800/Saul2800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
