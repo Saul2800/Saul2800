@@ -18,6 +18,15 @@
 - 📫 Currently collaborating in <a href="https://latasf.org/">LATASF</a>
 - 😄<a href="https://www.kaabcode.com/">Kaab code</a> team
 
+  ### ⚙️ &nbsp;GitHub Analytics
+
+  <p align="center">
+<a href="https://github.com/Saul2800">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saul2800&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saul2800&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **Saul2800/Saul2800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
