@@ -9,7 +9,7 @@
 - ⚡ C++, Java, SQL , HTML, PHP
 - 🌱 Learning Python
 - 👯 I’m looking to collaborate on projects
-- 📫 Currently collaborating in <div href="https://latasf.org/">LATASF</div>
+- 📫 Currently collaborating in <a href="https://latasf.org/">LATASF</a>
 
 <!--
 **Saul2800/Saul2800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
