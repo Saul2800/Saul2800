@@ -1,10 +1,10 @@
 <div>
-  <h1 aling="center"> Hello, I am: </h1>
+  <h1 align="center" style="font-family: monospace; color: lime; letter-spacing: 4px;">H3ll0, 1 4m:</h1>
 </div>
-<div aling="center">
-        <img src="/Saul.png" alt="Presentation">
-    </div>
-    
+<div align="center">
+    <img src="/Saul.png" alt="Presentation">
+</div>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sa%C3%BAl-arenas-53a873141/)
 - ⚡ C++, Java, SQL , HTML, PHP
 - 🌱 Learning Python
