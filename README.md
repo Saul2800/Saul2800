@@ -13,9 +13,9 @@
 <h2>About me:</h2>
 
 - ⚡ C++, Java, SQL , HTML, PHP
-- 🌱 Learning Python
+- 🌱 Python
 - 👯 I’m looking to collaborate on projects
-- 📫 Currently collaborating in <a href="https://latasf.org/">LATASF</a>
+- 📫 Currently collaborating in <a href="https://unservicio.com/">unservicio</a>
 - 😄<a href="https://www.kaabcode.com/">Kaab code</a> team
 
   ### ⚙️ &nbsp;GitHub Analytics
