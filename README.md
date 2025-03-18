@@ -15,7 +15,6 @@
 - ⚡ C++, Java, SQL , HTML, PHP
 - 🌱 Python
 - 👯 I’m looking to collaborate on projects
-- 📫 Currently collaborating in <a href="https://unservicio.com/">unservicio</a>
 - 😄<a href="https://www.kaabcode.com/">Kaab code</a> team
 
   ### ⚙️ &nbsp;GitHub Analytics
